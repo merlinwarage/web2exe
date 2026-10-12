@@ -150,4 +150,4 @@ release/<app>/         # what you ship
 
 ## License
 
-Add the license of your choice (for example MIT).
+MIT
